@@ -1,0 +1,110 @@
+\documentclass[
+11pt,
+fleqn,
+titlepage]{article}
+
+% Packages
+
+\usepackage[sfdefault]{roboto}
+\usepackage{authblk}
+\usepackage[a4paper, headheight=14pt]{geometry}
+\usepackage[document]{ragged2e}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage[section]{placeins}
+\usepackage{siunitx}
+\usepackage{textgreek}
+\usepackage[version=4]{mhchem}
+\usepackage[babel, tracking, verbose]{microtype}
+\usepackage[defaultlines=2, all]{nowidow}
+\usepackage{subcaption}
+\captionsetup{
+    labelfont=bf,
+    singlelinecheck=false,
+    justification=RaggedRight}
+\captionsetup[subfigure]{
+    labelformat=brace}
+\renewcommand\thesubfigure{\roman{subfigure}}
+\usepackage{polyglossia}
+\setdefaultlanguage[variant=american]{english}
+\usepackage{csquotes}
+\usepackage[style=apa]{biblatex}
+\addbibresource{bibliography.bib}
+\usepackage{fancyhdr}
+\usepackage{booktabs}
+\usepackage{soul}
+\usepackage[labelfont=bf]{caption}
+\usepackage{tabularx}
+\usepackage{threeparttablex}
+\usepackage[imakeidx]{xindex}
+\makeindex[intoc]
+\usepackage[pdfa]{hyperref}
+\usepackage{colorprofiles}
+\hypersetup{
+    pdfinfo={
+        Title={An analysis of variations in drought stress-related genes of Arabidopsis thaliana - a comparison of populations from Spain and Sweden},
+        Author={Halide Aydin, Sezin Dogan, Aliz Fodor, Janine Graser, Paula Winnitzki, Ingo Giebel},
+        Subject={Research project QBio305: Population and Quantitative Genetics},
+        Keywords={Heinrich-Heine-Universität Düsseldorf, Universität zu Köln, WS 2023/2024, QBio305: Population and Quantitative Genetics, Research project, Arabidopsis thaliana, Drought stress-related genes, Instructors: Prof. Dr. Juliette de Meaux, Dr. Markus Stetter, Dr. Tahir Ali}},
+        colorlinks,
+        linkcolor=blue,
+        linktoc=all}
+\usepackage[ocgcolorlinks, tikz]{ocgx2}
+\usepackage{biocon}
+\newplant{At}{genus=Arabidopsis, epithet=thaliana}
+\sloppy
+
+% Header
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\plant{At}: variations of drought stress-related genes in Spain and Sweden}
+\fancyhead[R]{\thepage}
+\fancypagestyle{plain}{}
+
+% Title & author
+
+\title{An analysis of variations in drought stress-related genes of \plant{At} - a comparison of populations from Spain and Sweden}
+\author[1]{Halide Aydin, Sezin Dogan, Aliz Fodor, Janine Graser, Paula Winnitzki, Ingo Giebel}
+\affil[1,2]{QBio305: Population and Quantitative Genetics}
+\affil[1]{Heinrich-Heine-Universität Düsseldorf}
+\affil[2]{Institute for Plant Sciences}
+\affil[2]{Universität zu Köln}
+\affil[2]{Prof. Dr. Juliette de Meaux, Dr. Markus Stetter, Dr. Tahir Ali}
+\date{February 5, 2024}
+
+\begin{document}
+    \maketitle
+
+    \tableofcontents
+
+    \clearpage
+    \renewcommand*\listtablename{List of tables}
+    \listoftables
+    \renewcommand*\listfigurename{List of figures}
+    \listoffigures
+
+    \clearpage
+
+    \input{abstract}
+
+    \input{introduction}
+
+    \input{materials_and_methods}
+
+    \input{results}
+
+    \input{discussion}
+
+    \clearpage
+    \printbibliography[heading=bibintoc]
+
+    \clearpage
+    \appendix
+    \input{appendix_a}
+    \input{appendix_b}
+    \input{appendix_c}
+
+    \clearpage
+    \printindex
+\end{document}
