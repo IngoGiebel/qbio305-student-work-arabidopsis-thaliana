@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.30)  29 NOV 2023 21:59
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.30)  29 NOV 2023 22:14
  restricted system commands enabled.
 **QBio305-Research-Report-Arabidopsis-thaliana.tex
 (./QBio305-Research-Report-Arabidopsis-thaliana.tex
@@ -2612,9 +2612,17 @@ idx'.
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-11>
  ***********
-Package rerunfilecheck Info: File `QBio305-Research-Report-Arabidopsis-thaliana
-.out' has not changed.
-(rerunfilecheck)             Checksum: 4C2D1E423B591E18F87AA5BBD9BF0D2A;2021.
+
+
+Package rerunfilecheck Warning: File `QBio305-Research-Report-Arabidopsis-thali
+ana.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `QBio305-Research-Report-Arabidopsis
+-thaliana.out':
+(rerunfilecheck)             Before: 4C2D1E423B591E18F87AA5BBD9BF0D2A;2021
+(rerunfilecheck)             After:  621DCE2BBE96EA09BA935F5B49621A0E;2054.
 Package logreq Info: Writing requests to 'QBio305-Research-Report-Arabidopsis-t
 haliana.run.xml'.
 
@@ -2636,7 +2644,7 @@ live/2023/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf><c:/texlive/
 2023/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf><c:/texlive/2023
 /texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on QBio305-Research-Report-Arabidopsis-thaliana.pdf (7 pages, 37
-075 bytes).
+123 bytes).
 
 PDF statistics: 171 PDF objects out of 1000 (max. 8388607)
  150 compressed objects within 2 object streams
