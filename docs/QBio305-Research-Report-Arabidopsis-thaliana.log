@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.30)  29 NOV 2023 16:41
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.30)  29 NOV 2023 21:59
  restricted system commands enabled.
 **QBio305-Research-Report-Arabidopsis-thaliana.tex
 (./QBio305-Research-Report-Arabidopsis-thaliana.tex
@@ -2356,12 +2356,47 @@ Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
 Package microtype Info: |<< adding left margin kern for `Ab':
 (microtype)             -0.3723pt on input line 3.
+Package microtype Info: Setting up font `TU/lmr/m/n/10.95' on input line 6.
+Package microtype Info: ... No tracking.
+Package microtype Info: ... Loading protrusion list `LMR-default'.
+Package microtype Info: ... Applying non-selected expansion (no list).
+Package microtype Info: Setting up font `OML/cmm/m/it/10.95' on input line 6.
+Package microtype Info: ... No tracking.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `OMS/cmsy/m/n/10.95' on input line 6.
+Package microtype Info: ... No tracking.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `OMX/cmex/m/n/10.95' on input line 6.
+Package microtype Info: ... No tracking.
+Package microtype Info: ... No protrusion.
+Package microtype Info: ... No expansion.
+Package microtype Info: Setting up font `OT1/cmr/m/n/10.95' on input line 6.
+Package microtype Info: ... No tracking.
+Package microtype Info: ... Loading protrusion list `cmr-OT1'.
+Package microtype Info: ... : First loading protrusion list `cmr-default'.
+Package microtype Info: ... No expansion.
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+Package microtype Info: |<< adding left margin kern for `To':
+(microtype)             -0.3285pt on input line 10.
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
 Package microtype Info: |<< adding left margin kern for `Ap':
-(microtype)             -0.3723pt on input line 8.
+(microtype)             -0.3723pt on input line 14.
 Package microtype Info: |<< adding left margin kern for `Ap':
-(microtype)             -0.3723pt on input line 9.
+(microtype)             -0.3723pt on input line 15.
 Package microtype Info: |<< adding left margin kern for `Ap':
-(microtype)             -0.3723pt on input line 10.
+(microtype)             -0.3723pt on input line 16.
 )
 \tf@toc=\write7
 
@@ -2404,18 +2439,63 @@ uage eng
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng [3
 
-])
-Underfull \hbox (badness 2951) in paragraph at lines 9--93
+]
+Underfull \hbox (badness 2951) in paragraph at lines 9--10
 []\TU/Roboto(0)/m/n/10.95 If you need cli-mate data, it can be down-loaded from https://www.world- 
  []
 
-(./results.tex
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 11.
+Package microtype Info: Setting up font `TU/Roboto(0)/b/n/12' on input line 11.
+
+Package microtype Info: ... No tracking.
+Package microtype Info: ... Loading protrusion list `T1-default'.
+Package microtype Info: ... : First loading protrusion list `default'.
+Package microtype Info: ... Applying non-selected expansion (no list).
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+Package microtype Info: |<< adding left margin kern for `Wh':
+(microtype)             -0.4818pt on input line 14.
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+Package microtype Info: |<< adding left margin kern for `Wh':
+(microtype)             -0.4818pt on input line 15.
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng) (./results.tex
+luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
+uage eng [4]
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng) (./discussion.tex
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng)
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
-uage eng [4]
+uage eng [5]
 
 LaTeX Warning: Empty bibliography on input line 99.
 
@@ -2427,7 +2507,7 @@ uage eng) (./appendix_c.tex
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng)
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
-uage eng [5
+uage eng [6
 
 
 ]
@@ -2534,7 +2614,7 @@ L3 programming layer <2023-08-11>
  ***********
 Package rerunfilecheck Info: File `QBio305-Research-Report-Arabidopsis-thaliana
 .out' has not changed.
-(rerunfilecheck)             Checksum: 6971D26C3E5104BE8C9F93BA03CC2BB6;802.
+(rerunfilecheck)             Checksum: 4C2D1E423B591E18F87AA5BBD9BF0D2A;2021.
 Package logreq Info: Writing requests to 'QBio305-Research-Report-Arabidopsis-t
 haliana.run.xml'.
 
@@ -2542,25 +2622,24 @@ haliana.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 45080 strings out of 477514
+ 45111 strings out of 477514
  125086,2373549 words of node,token memory allocated
- 830 words of node memory still in use:
-   8 hlist, 2 vlist, 2 rule, 1 local_par, 5 glue, 5 kern, 1 penalty, 1 margin_ke
-rn, 5 glyph, 15 attribute, 91 glue_spec, 15 attribute_list, 2 shape, 7 write nod
-es
-   avail lists: 1:4,2:474,3:535,4:78,5:321,6:46,7:5215,8:2,9:290,10:25,11:381
- 65055 multiletter control sequences out of 65536+600000
- 77 fonts using 10923135 bytes
+ 803 words of node memory still in use:
+   8 hlist, 2 vlist, 2 rule, 1 local_par, 4 glue, 4 kern, 1 penalty, 4 glyph, 14
+ attribute, 91 glue_spec, 14 attribute_list, 2 shape, 7 write nodes
+   avail lists: 1:3,2:764,3:895,4:153,5:326,6:70,7:5217,8:2,9:448,10:25,11:381
+ 65079 multiletter control sequences out of 65536+600000
+ 82 fonts using 11380031 bytes
  103i,11n,128p,1188b,5367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/opentype/google/roboto/Roboto-Bold.otf><c:/tex
 live/2023/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf><c:/texlive/
 2023/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf><c:/texlive/2023
 /texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
-Output written on QBio305-Research-Report-Arabidopsis-thaliana.pdf (6 pages, 31
-738 bytes).
+Output written on QBio305-Research-Report-Arabidopsis-thaliana.pdf (7 pages, 37
+075 bytes).
 
-PDF statistics: 129 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 17 named destinations out of 1000 (max. 131072)
- 100 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 171 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 131072)
+ 148 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -7,3 +7,39 @@ Tahir:
 Having finalized your research question and study regions, you can now focus on the Materials and Methods section, which involves identifying the types of datasets needed and exploring suitable statistical methods and tools for data analysis. I will help you download the required genome-wide SNP data for accessions from Spain and Sweden as a VCF file from https://1001genomes.org/data/GMI-MPI/releases/v3.1/.
 
 If you need climate data, it can be downloaded from https://www.worldclim.org/data/worldclim21.html. Don’t forget to identify any additional datasets needed and their potential sources before starting the analysis. We encourage you to contact us with any additional questions, and we are here to guide you throughout the process of designing and executing your research project.
+
+\subsection{Data}
+
+\begin{itemize}
+    \item Whole FASTA reference genomic data of A. thaliana
+    \item Whole genomic sequencing data of A. thaliana from regions in Spain and Sweden
+\end{itemize}
+
+\subsection{Preprocessing of the raw data and mapping to a reference genome}
+
+\begin{itemize}
+    \item FastQC v0.12.1 - quality control of the raw FASTQ data
+    \item fastp version 0.23.4 - quality trimming of the raw FASTQ data
+    \item bwa-mem2 version 2.2.1 - indexing the FASTA reference file + mapping of the trimmed FASTQ files to the reference FASTA file
+    \item samtools version 1.18 - conversion of the SAM files into BAM format + quality filtering + removing PCR duplicates + indexing and sorting the BAM files
+    \item QualiMap v.2.3 - evaluation of the mapping quality
+\end{itemize}
+
+\subsection{Evaluation of the variants calling and filtering}
+
+\begin{itemize}
+    \item bcftools version 1.18 - filtering for minimum base quality (-q 30) + minimum calling threshold for variant alleles (-p 0.01) + removing all monomorphic variant sites + some additional filtering
+\end{itemize}
+
+\subsection{Statistical analysis and methods}
+
+\subsubsection{Tools}
+
+\begin{itemize}
+    \item R version 4.3.2 - statistical programming language
+    \item RStudio version 2023.09.1 build 494 - integrated development environment (IDE) for R
+\end{itemize}
+
+\subsubsection{Methods}
+
+TODO...
