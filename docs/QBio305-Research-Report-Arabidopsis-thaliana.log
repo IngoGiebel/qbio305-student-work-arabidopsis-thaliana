@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.30)  29 NOV 2023 16:21
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.8.30)  29 NOV 2023 16:41
  restricted system commands enabled.
 **QBio305-Research-Report-Arabidopsis-thaliana.tex
 (./QBio305-Research-Report-Arabidopsis-thaliana.tex
@@ -1887,101 +1887,101 @@ Package csquotes Info: ... found 'polyglossia' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'american'.
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
-(Font)              scaled to size 10.95pt on input line 76.
+(Font)              scaled to size 10.95pt on input line 75.
 
 (./QBio305-Research-Report-Arabidopsis-thaliana.aux)
 \openout1 = QBio305-Research-Report-Arabidopsis-thaliana.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
-6.
+5.
 
 (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 75.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 7
-6.
+5.
 
 (c:/texlive/2023/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
 
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 76.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 76.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 76.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 76.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 76.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 76.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 76.
-LaTeX Font Info:    Redeclaring math accent \check on input line 76.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 76.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 76.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 76.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 76.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 76.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 75.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 75.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 75.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 75.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 75.
+LaTeX Font Info:    Redeclaring math accent \check on input line 75.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 75.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 75.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 75.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 75.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 76.
+(Font)              `operators' in the math version `normal' on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 76.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 75.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 76.
+(Font)              `operators' in the math version `bold' on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 76.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 76.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 76.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 76.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Roboto(0)/m/n on input line 76.
+(Font)                  OT1/cmss/m/n --> TU/Roboto(0)/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 76.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 76.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 76.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Roboto(0)/b/n on input line 76.
+(Font)                  OT1/cmss/bx/n --> TU/Roboto(0)/b/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 76.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 75.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -2017,9 +2017,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package ragged2e Info: ABD: executing \RaggedRight on input line 76.
+Package ragged2e Info: ABD: executing \RaggedRight on input line 75.
 
-Package chemgreek Info: Activating mapping `default' on line 76.
+Package chemgreek Info: Activating mapping `default' on line 75.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -2043,19 +2043,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Info: Redefining \microtypecontext on input line 76.
-Package microtype Info: Applying patch `item' on input line 76.
-Package microtype Info: Applying patch `toc' on input line 76.
-Package microtype Info: Applying patch `eqnum' on input line 76.
-Package microtype Info: Applying patch `footnote' on input line 76.
-Package microtype Info: Applying patch `verbatim' on input line 76.
+LaTeX Info: Redefining \microtypecontext on input line 75.
+Package microtype Info: Applying patch `item' on input line 75.
+Package microtype Info: Applying patch `toc' on input line 75.
+Package microtype Info: Applying patch `eqnum' on input line 75.
+Package microtype Info: Applying patch `footnote' on input line 75.
+Package microtype Info: Applying patch `verbatim' on input line 75.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 76.
+LaTeX Info: Redefining \showhyphens on input line 75.
 Package microtype Info: Tracking enabled.
 Package microtype Info: Using default tracking set `smallcaps'.
 Package microtype Info: No adjustment of spacing.
@@ -2063,9 +2063,9 @@ Package microtype Info: No adjustment of kerning.
 Package microtype Info: Registering with polyglossia's language switching hook.
 
 Package microtype Info: *** Changing to language context `english'
-(microtype)              on input line 76.
+(microtype)              on input line 75.
 Package microtype Info: Setting up font `TU/Roboto(0)/m/n/10.95' on input line 
-76.
+75.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: Loading generic protrusion settings for font family
@@ -2165,9 +2165,9 @@ Package biblatex Info: ... file 'QBio305-Research-Report-Arabidopsis-thaliana.b
 bl' found.
 
 (./QBio305-Research-Report-Arabidopsis-thaliana.bbl)
-Package biblatex Info: Reference section=0 on input line 76.
-Package biblatex Info: Reference segment=0 on input line 76.
-Package hyperref Info: Link coloring ON on input line 76.
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
+Package hyperref Info: Link coloring ON on input line 75.
 
 (./QBio305-Research-Report-Arabidopsis-thaliana.out)
 (./QBio305-Research-Report-Arabidopsis-thaliana.out)
@@ -2176,34 +2176,34 @@ Package hyperref Info: Link coloring ON on input line 76.
 \openout6 = QBio305-Research-Report-Arabidopsis-thaliana.out
 Package polyglossia Info: Option: English, variant=american.
 Package polyglossia Info: Option: English, variant=american.
-LaTeX Info: Redefining \rmfamily on input line 76.
-LaTeX Info: Redefining \sffamily on input line 76.
-LaTeX Info: Redefining \ttfamily on input line 76.
+LaTeX Info: Redefining \rmfamily on input line 75.
+LaTeX Info: Redefining \sffamily on input line 75.
+LaTeX Info: Redefining \ttfamily on input line 75.
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng
 Package polyglossia Info: Option: English, variant=american.
 Package microtype Info: *** Changing to language context `english'
-(microtype)              on input line 76.
+(microtype)              on input line 75.
 Package polyglossia Info: Option: English, variant=american.
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
-(Font)              scaled to size 17.28pt on input line 78.
+(Font)              scaled to size 17.28pt on input line 77.
 Package microtype Info: Setting up font `TU/Roboto(0)/m/n/17.28' on input line 
-78.
+77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
-(Font)              scaled to size 17.28pt on input line 78.
+(Font)              scaled to size 17.28pt on input line 77.
 Package microtype Info: Setting up font `TU/Roboto(0)/m/it/17.28' on input line
- 78.
+ 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 78.
-Package microtype Info: Setting up font `TU/Roboto(0)/m/n/12' on input line 78.
+(Font)              scaled to size 12.0pt on input line 77.
+Package microtype Info: Setting up font `TU/Roboto(0)/m/n/12' on input line 77.
 
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
@@ -2218,52 +2218,52 @@ Package microtype Info: ... Loading configuration file mt-LatinModernRoman.cfg.
 File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
 ern Roman (RS)
 )
-Package microtype Info: Setting up font `TU/lmr/m/n/12' on input line 78.
+Package microtype Info: Setting up font `TU/lmr/m/n/12' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `LMR-default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
-Package microtype Info: Setting up font `TU/lmr/m/n/8' on input line 78.
+Package microtype Info: Setting up font `TU/lmr/m/n/8' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `LMR-default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
-Package microtype Info: Setting up font `TU/lmr/m/n/6' on input line 78.
+Package microtype Info: Setting up font `TU/lmr/m/n/6' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `LMR-default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
-Package microtype Info: Setting up font `OML/cmm/m/it/12' on input line 78.
+Package microtype Info: Setting up font `OML/cmm/m/it/12' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OML/cmm/m/it/8' on input line 78.
+Package microtype Info: Setting up font `OML/cmm/m/it/8' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OML/cmm/m/it/6' on input line 78.
+Package microtype Info: Setting up font `OML/cmm/m/it/6' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/cmsy/m/n/12' on input line 78.
+Package microtype Info: Setting up font `OMS/cmsy/m/n/12' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/cmsy/m/n/8' on input line 78.
+Package microtype Info: Setting up font `OMS/cmsy/m/n/8' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMS/cmsy/m/n/6' on input line 78.
+Package microtype Info: Setting up font `OMS/cmsy/m/n/6' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
 Package microtype Info: ... No configuration file mt-cmex.cfg.
-Package microtype Info: Setting up font `OMX/cmex/m/n/12' on input line 78.
+Package microtype Info: Setting up font `OMX/cmex/m/n/12' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/cmex/m/n/8' on input line 78.
+Package microtype Info: Setting up font `OMX/cmex/m/n/8' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OMX/cmex/m/n/6' on input line 78.
+Package microtype Info: Setting up font `OMX/cmex/m/n/6' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... No protrusion.
 Package microtype Info: ... No expansion.
@@ -2273,32 +2273,28 @@ Package microtype Info: ... Loading configuration file mt-cmr.cfg.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-Package microtype Info: Setting up font `OT1/cmr/m/n/12' on input line 78.
+Package microtype Info: Setting up font `OT1/cmr/m/n/12' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `cmr-OT1'.
 Package microtype Info: ... : First loading protrusion list `cmr-default'.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/cmr/m/n/8' on input line 78.
+Package microtype Info: Setting up font `OT1/cmr/m/n/8' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `cmr-OT1'.
 Package microtype Info: ... : First loading protrusion list `cmr-default'.
 Package microtype Info: ... No expansion.
-Package microtype Info: Setting up font `OT1/cmr/m/n/6' on input line 78.
+Package microtype Info: Setting up font `OT1/cmr/m/n/6' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `cmr-OT1'.
 Package microtype Info: ... : First loading protrusion list `cmr-default'.
 Package microtype Info: ... No expansion.
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 78.
-Package microtype Info: Setting up font `TU/Roboto(0)/m/n/8' on input line 78.
+(Font)              scaled to size 8.0pt on input line 77.
+Package microtype Info: Setting up font `TU/Roboto(0)/m/n/8' on input line 77.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
-luaotfload | aux : font no 56 (nil) defines no feature for script latn with lang
-uage eng
-luaotfload | aux : font no 56 (nil) defines no feature for script latn with lang
-uage eng
 luaotfload | aux : font no 56 (nil) defines no feature for script latn with lang
 uage eng
 luaotfload | aux : font no 56 (nil) defines no feature for script latn with lang
@@ -2322,17 +2318,17 @@ uage eng [1
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 79.
+(Font)              scaled to size 14.4pt on input line 78.
 Package microtype Info: Setting up font `TU/Roboto(0)/m/n/14.4' on input line 7
-9.
+8.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
 Package microtype Info: ... Applying non-selected expansion (no list).
 LaTeX Font Info:    Font shape `TU/Roboto(0)/b/n' will be
-(Font)              scaled to size 14.4pt on input line 79.
+(Font)              scaled to size 14.4pt on input line 78.
 Package microtype Info: Setting up font `TU/Roboto(0)/b/n/14.4' on input line 7
-9.
+8.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
@@ -2373,9 +2369,9 @@ Package microtype Info: |<< adding left margin kern for `Ap':
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng
 LaTeX Font Info:    Font shape `TU/Roboto(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 81.
+(Font)              scaled to size 10.95pt on input line 80.
 Package microtype Info: Setting up font `TU/Roboto(0)/m/it/10.95' on input line
- 81.
+ 80.
 Package microtype Info: ... No tracking.
 Package microtype Info: ... Loading protrusion list `T1-default'.
 Package microtype Info: ... : First loading protrusion list `default'.
@@ -2409,7 +2405,7 @@ luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng [3
 
 ])
-Underfull \hbox (badness 2951) in paragraph at lines 9--94
+Underfull \hbox (badness 2951) in paragraph at lines 9--93
 []\TU/Roboto(0)/m/n/10.95 If you need cli-mate data, it can be down-loaded from https://www.world- 
  []
 
@@ -2421,7 +2417,7 @@ uage eng)
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
 uage eng [4]
 
-LaTeX Warning: Empty bibliography on input line 100.
+LaTeX Warning: Empty bibliography on input line 99.
 
 (./appendix_a.tex
 luaotfload | aux : font no 53 (nil) defines no feature for script latn with lang
@@ -2561,7 +2557,7 @@ live/2023/texmf-dist/fonts/opentype/google/roboto/Roboto-Italic.otf><c:/texlive/
 2023/texmf-dist/fonts/opentype/google/roboto/Roboto-Regular.otf><c:/texlive/2023
 /texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
 Output written on QBio305-Research-Report-Arabidopsis-thaliana.pdf (6 pages, 31
-763 bytes).
+738 bytes).
 
 PDF statistics: 129 PDF objects out of 1000 (max. 8388607)
  109 compressed objects within 2 object streams
