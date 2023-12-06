@@ -1,0 +1,8 @@
+# All tmp files and dirs
+tmp
+# All files within the docs dir except *.bib, *.tex, *.md, *.pdf
+docs/*
+!*.bib
+!*.tex
+!*.md
+!*.pdf
