@@ -2,44 +2,72 @@
 
 TODO...
 
-Tahir:
-
-Having finalized your research question and study regions, you can now focus on the Materials and Methods section, which involves identifying the types of datasets needed and exploring suitable statistical methods and tools for data analysis. I will help you download the required genome-wide SNP data for accessions from Spain and Sweden as a VCF file from https://1001genomes.org/data/GMI-MPI/releases/v3.1/.
-
-If you need climate data, it can be downloaded from https://www.worldclim.org/data/worldclim21.html. Don’t forget to identify any additional datasets needed and their potential sources before starting the analysis. We encourage you to contact us with any additional questions, and we are here to guide you throughout the process of designing and executing your research project.
-
-\subsection{Data}
+\subsection{Data source and collection}
 
 \begin{itemize}
     \item Whole FASTA reference genomic data of A. thaliana
     \item Whole genomic sequencing data of A. thaliana from regions in Spain and Sweden
 \end{itemize}
 
-\subsection{Preprocessing of the raw data and mapping to a reference genome}
+\subsection{Data preprocessing}
 
+The raw FASTQ sequencing data was step wise preprocessed as follows:
+
+\begin{enumerate}
+    \item Quality control of the raw FASTQ data.
+    \item Quality trimming of the raw FASTQ data.
+    \item Quality control of the trimmed FASTQ data.
+    \item Sequence aligning of the genomic sequencing data (FASTQ files) with the reference genomic data of A. thaliana (FASTA file). The resulting SAM files were converted to sorted BAM files.
+    \item The sorted BAM files were quality filtered, PCR duplicates were removed, and only properly aligned paired-end reads were kept: mapping quality -q 30, secondary alignments and reads failing the quality checks were removed.
+    \item the sorted and filtered BAM files were converted to a VCF file. Minimum calling threshold for variant alleles: -p 0.01. Therefore, only variants with an allele frequency of at least one percent were called.
+    \item Further quality filtering: All monomorphic variant sites and all indels were removed.
+\end{enumerate}
+
+TODO: Figure illustrating the preprocessing pipeline.
+
+The geospatial data of the accessions were determined using the 1001 KML data (TODO: link to the XML file). For the further downstream analysis, the following geospatial data of the accessions was acquired using the NASA Earth Observatory database:
+\begin{itemize}
+    \item Land surface temperature
+    \item Total rainfall
+    \item Snow cover
+\end{itemize}
+
+\subsection{Selection of genomic regions}
+
+\subsection{Bioinformatics and statistical analysis}
+
+\subsection{Software and tools}
+
+The following software and tools were used for data processing and analysis:
 \begin{itemize}
     \item FastQC v0.12.1 - quality control of the raw FASTQ data
-    \item fastp version 0.23.4 - quality trimming of the raw FASTQ data
-    \item bwa-mem2 version 2.2.1 - indexing the FASTA reference file + mapping of the trimmed FASTQ files to the reference FASTA file
-    \item samtools version 1.18 - conversion of the SAM files into BAM format + quality filtering + removing PCR duplicates + indexing and sorting the BAM files
+    \item fastp v0.23.4 - quality trimming of the raw FASTQ data
+    \item bwa-mem2 v2.2.1 - indexing the FASTA reference file + mapping of the trimmed FASTQ files to the reference FASTA file
+    \item samtools v1.18 - conversion of the SAM files into BAM format + quality filtering + removing PCR duplicates + indexing and sorting the BAM files
     \item QualiMap v.2.3 - evaluation of the mapping quality
+    \item bcftools v1.18 - variant calling and manipulating files in the Variant Call Format (VCF) and its binary counterpart BCF
+    \item vcftools v0.1.17 - additional filtering of the VCF files
+    \item PLINK v1.90b6.21 - whole-genome association and population-based linkage analyses
+    \item ADMIXTURE v1.3.0 - ancestry estimation in a model-based manner from large autosomal SNP genotype datasets
+    \item Stacks v2.65 - modular pipeline to perform several different types of analyses
+    \item R programming language v4.3.2 - statistical analysis using a self developed script (see appendix ...)
+    \item RStudio v2023.09.1+494 - integrated development environment (IDE) for R
 \end{itemize}
 
-\subsection{Evaluation of the variants calling and filtering}
-
+For the statistical analysis and plotting with R, the following packages were used:
 \begin{itemize}
-    \item bcftools version 1.18 - filtering for minimum base quality (-q 30) + minimum calling threshold for variant alleles (-p 0.01) + removing all monomorphic variant sites + some additional filtering
+    \item adegenet v2.1.10 - for multivariate analysis of genetic markers
+    \item BiocManager v1.30.22 - to access the Bioconductor project package repository
+    \item RColorBrewer v1.1-3 - color palettes for creating graphics
+    \item factoextra v1.0.7 - to extract and visualize the results of multivariate data analyses
+    \item FactoMineR v2.9 - for multivariate exploratory data analysis and data mining
+    \item ggrepl v0.9.4 - to automatically position non-overlapping text labels
+    \item gplots v3.1.3 - for plotting
+    \item here v1.0.1 - to determine the project root (required for accessing files using relative path names)
+    \item LEA v3.14.0 - for landscape and ecological association studies
+    \item plotly v4.10.3 - to create interactive plots
+    \item popReconstruct v1.0-6 - for reconstructing populations of the recent past
+    \item StAMPP - v1.6.3 - for statistical analysis of mixed ploidy populations
+    \item tidyverse v.2.0.0 - data transformation and presentation
+    \item vcfR v1.15.0 - manipulation and visualization of variant call format (VCF) data
 \end{itemize}
-
-\subsection{Statistical analysis tools and methods}
-
-\subsubsection{Tools}
-
-\begin{itemize}
-    \item R version 4.3.2 - statistical programming language
-    \item RStudio version 2023.09.1 build 494 - integrated development environment (IDE) for R
-\end{itemize}
-
-\subsubsection{Methods}
-
-TODO...
