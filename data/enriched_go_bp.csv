@@ -1,0 +1,29 @@
+"","GO.ID","Term","KS"
+"1","GO:0042742","GO:0042742, defense response to bacterium",0.001
+"2","GO:0006468","GO:0006468, protein phosphorylation",0.0014
+"3","GO:0002758","GO:0002758, innate immune response-activating",0.0063
+"4","GO:1900055","GO:1900055, regulation of leaf senescence",0.01
+"5","GO:0051093","GO:0051093, negative regulation of developmental",0.01
+"6","GO:0055085","GO:0055085, transmembrane transport",0.0112
+"7","GO:0006811","GO:0006811, monoatomic ion transport",0.0112
+"8","GO:0009653","GO:0009653, anatomical structure morphogenesis",0.017
+"9","GO:0040007","GO:0040007, growth",0.0177
+"10","GO:0048589","GO:0048589, developmental growth",0.0177
+"11","GO:0043069","GO:0043069, negative regulation of programmed cell",0.0207
+"12","GO:0048878","GO:0048878, chemical homeostasis",0.0216
+"13","GO:1901605","GO:1901605, alpha-amino acid metabolic process",0.0317
+"14","GO:0006807","GO:0006807, nitrogen compound metabolic process",0.0339
+"15","GO:0010033","GO:0010033, response to organic substance",0.0343
+"16","GO:1901701","GO:1901701, cellular response to oxygen-containing",0.0343
+"17","GO:0009697","GO:0009697, salicylic acid biosynthetic process",0.0345
+"18","GO:0050789","GO:0050789, regulation of biological process",0.0351
+"19","GO:0014070","GO:0014070, response to organic cyclic compound",0.0352
+"20","GO:0071396","GO:0071396, cellular response to lipid",0.0403
+"21","GO:0044237","GO:0044237, cellular metabolic process",0.0425
+"22","GO:0070482","GO:0070482, response to oxygen levels",0.0428
+"23","GO:0036293","GO:0036293, response to decreased oxygen levels",0.0428
+"24","GO:0001666","GO:0001666, response to hypoxia",0.0428
+"25","GO:0065007","GO:0065007, biological regulation",0.0429
+"26","GO:1902531","GO:1902531, regulation of intracellular signal",0.0455
+"27","GO:1901564","GO:1901564, organonitrogen compound metabolic",0.047
+"28","GO:0072593","GO:0072593, reactive oxygen species metabolic",0.0493

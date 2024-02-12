@@ -1,5 +1,6 @@
-# All tmp files and dirs
+# All tmp files and dirs and all files with a ~ prefix
 tmp
+~*
 # All files within the docs dir except *.bib, *.tex, *.md, *.pdf
 docs/*
 !*.bib
