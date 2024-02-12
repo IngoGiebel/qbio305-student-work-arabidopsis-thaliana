@@ -1,0 +1,25 @@
+
+VCFtools - 0.1.16
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--gzvcf 1001genomes_snp-short-indel_only_ACGTN.vcf.gz
+	--keep accessions.tsv
+	--recode-INFO-all
+	--max-alleles 2
+	--minDP 10
+	--minGQ 20
+	--minQ 30
+	--max-missing 0.8
+	--recode
+	--remove-indels
+	--stdout
+	--bed at_drought_cold_heat_stress_only.bed
+
+Using zlib version: 1.2.11
+Keeping individuals in 'keep' list
+After filtering, kept 40 out of 1135 Individuals
+Outputting VCF file...
+	Read 694 BED file entries.
+After filtering, kept 57879 out of a possible 12883854 Sites
+Run Time = 441.00 seconds

@@ -6,3 +6,19 @@ docs/*
 !*.tex
 !*.md
 !*.pdf
+# All RStudio project files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# svg-inkscape dirs
+svg-inkscape/
+# dvi files
+*.dvi
+# Quarto *files and *cache dirs
+*files/
+*cache/
+# The geodata dir
+data/geodata/
+# The VCF file from 1001 genomes with all accessions
+data/1001genomes_snp-short-indel_only_ACGTN.vcf.gz
